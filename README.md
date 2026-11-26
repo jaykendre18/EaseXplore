@@ -1,5 +1,7 @@
 # EaseXplore
 
+The application is in [`easexplore-website/`](easexplore-website/). Run the commands and follow the paths below from that directory.
+
 Local Pune travel companion: compare metro, bus and auto fares, plan your day, track your budget and find local food and stays.
 
 **Stack:** React 18, Vite, Tailwind CSS 3, React Router 6, Supabase.
